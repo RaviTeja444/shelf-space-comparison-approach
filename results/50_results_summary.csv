@@ -1,0 +1,3 @@
+Method,Total Profit,Total Width,Utilization %,Computation Time (ms),Products Allocated
+Optimized DP,337.40999999999997,400,100.0,20.49422264099121,13
+Hybrid LLM-DP,310.78000000000003,393,98.25,2.4230480194091797,15
